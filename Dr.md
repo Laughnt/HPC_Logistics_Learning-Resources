@@ -1,2 +1,2 @@
-Đoán xem nào
+Đoán xem nào.
 [[xD]] [[Cu]]
