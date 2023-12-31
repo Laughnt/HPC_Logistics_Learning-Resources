@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr.md",
+                "file": "Học/Cu.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr.md",
+                "file": "Học/Cu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr.md",
+                "file": "Học/Cu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr.md"
+                "file": "Học/Cu.md"
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "06b5fa1f707991ef",
   "lastOpenFiles": [
-    "Dr.md",
-    "Học/Cu.md",
     "Học/xD.md",
+    "Học/Cu.md",
+    "Khẳng định bản thân.md",
     "Học"
   ]
 }
