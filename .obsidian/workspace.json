@@ -64,14 +64,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "b40690b54134dee3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -141,25 +133,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "06b5fa1f707991ef",
   "lastOpenFiles": [
     "Học/xD.md",
     "Học/Cu.md",
+    "31-12-2023.md",
     "Khẳng định bản thân.md",
+    "Untitled.md",
+    "2023-12-31.md",
+    "Untitled",
+    "mới.md",
+    "Em là người tôi yêu.md",
+    "Untitled 1.md",
+    "Và cảm ơn bạn vì đã đến nhé.md",
+    "Pasted image 20231231135734.png",
+    "Untitled 2.md",
     "Học"
   ]
 }
